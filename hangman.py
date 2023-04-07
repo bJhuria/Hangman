@@ -1,22 +1,3 @@
-'''
-Project 5 - Hangman - Fall 2020
-Author: <Bhavya Jhuria bhavya12>
-
-This file contains the Hangman class, which manages the internal
-details of a Hangman game.
-
-I have neither given or received unauthorized assistance on this assignment.
-Signed:  <Bhavya Jhuria>
-'''
-
-''' This file is initially INCOMPLETE. You must complete its implementation,
-as well as that of the Hangman_Interface class (play_hangman.py) to have a
-complete program.
-
-First, read and understand the existing code. Then add appropriate code
-wherever you see a TODO comment. Do not change any existing code. '''
-
-
 import random
 
 class Hangman:
